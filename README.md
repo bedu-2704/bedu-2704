@@ -1,3 +1,21 @@
+# 💫 Hi 👋, I'm Bedika Sahoo
+
+**A Computer Science & Engineering student || Aspiring Software Engineer || Exploring Cloud & DevOps**
+
+🚀 I enjoy building projects, experimenting with new technologies, and turning ideas into working applications.
+
+* 🔭 **I’m currently working on:** AI/ML projects and full-stack applications
+* 🌱 **I’m currently learning:** Cloud Computing, DevOps, Docker, Terraform & Data Engineering
+* 💻 **I have hands-on experience with:** Python, Java, HTML, CSS, JavaScript, Node.js, Express.js, SQL, Docker & Terraform
+* 🤖 **AI/ML:** YOLOv8, TensorFlow, Keras, MobileNetV2 & VGG16
+* ☁️ **Cloud & DevOps:** AWS, Docker, Terraform, CI/CD fundamentals
+* 🗄️ **Database & Data:** SQLite, SQL & Snowflake
+* 👯 **I’m looking to collaborate on:** AI/ML, Full-Stack, Cloud & DevOps projects
+* 💬 **Ask me about:** Python, Java, Docker, Terraform, AI/ML projects & web development
+* 📫 **How to reach me:** Add your email or LinkedIn here
+* ⚡ **Fun fact:** I don't just learn technologies, I try to build with them.
+* 🎯 **Current goal:** Turning my projects into production-ready solutions and becoming stronger in Cloud & DevOps.
+
 
 ## 🌐 Socials:
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@BEDIKA SAHOO) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bedikasahoo346@gmail.com) 
