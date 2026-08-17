@@ -27,6 +27,9 @@
 ![](https://streak-stats.demolab.com/?user=bedu-2704&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=bedu-2704&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+
+<!-- Snake Game Repo View -->
+
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
